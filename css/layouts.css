@@ -6,6 +6,7 @@ body{
     height:100%;
     margin:0;
     padding-bottom: 20px;
+    text-align: center;
 }
 
 main{
@@ -14,11 +15,14 @@ main{
     padding-bottom:20px;
     display:flex;
     flex-flow: row wrap;
+    justify-content: center;
+    margin: auto;
 }
 
 section{
     margin:30px;
     border: 2px white solid;
+
 }
 
 footer{

@@ -10,3 +10,15 @@ nav p{
     display: inline-block;
     margin-left:20px;
 }
+
+a{
+    color:pink;
+}
+
+a:hover{
+    font-size:40px;
+}
+
+a::after{
+    color:salmon;
+}
